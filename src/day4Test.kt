@@ -4,6 +4,9 @@ import java.security.*
 
 /**
  * @author juancho
+ *
+ * Extension functions found on this link:
+ * https://bitbucket.org/snippets/gelin/zLebo/extension-functions-to-format-bytes-as-hex
  */
 class day4Test() {
 
